@@ -1,0 +1,28 @@
+body {
+    background-color: #E5E5E5
+}
+
+
+
+#aa {
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 36px;
+}
+
+
+.filled {
+    color: #FFC014;
+
+}
+
+.time {
+    background-color:
+        #FFE4E8;
+}
+
+
+.fa-clock {
+    color: #FF4A60;
+}
